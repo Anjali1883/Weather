@@ -1,0 +1,62 @@
+MAJOR INFO
+  is_day.innerHTML =response.is_day 
+  temp_c.innerHTML =response.temp_c                           .. 
+  temp_f.innerHTML =response.temp_f 
+  wind_mph.innerHTML =response.wind_mph                       ..
+  wind_kph.innerHTML =response.wind_kph  
+  wind_dir.innerHTML =response.wind_dir  
+  humidity.innerHTML =response.humidity 
+  pressure_mb.innerHTML =response.pressure_mb 
+  pressure_in.innerHTML =response.pressure_in     
+
+  ALSO KNOW
+  wind_degree.innerHTML =response.wind_degree
+  feelstrke_c.innerHTML =response.feelstrke_c 
+  feelstrke_f.innerHTML =response.feelstrke_f 
+  precip_mm.innerHTML =response.precip_mm 
+  precip_in.innerHTML =response.precip_in    
+  heatindex_c.innerHTML =response.heatindex_c 
+  heatindex_f.innerHTML =response.heatindex_f 
+  dewpoint_c.innerHTML =response.dewpoint_c 
+  dewpoint_f.innerHTML =response.dewpoint_f 
+  uv.innerHTML =response.uv 
+
+  MORE 
+  gust_mph.innerHTML =response.gust_mph 
+  gust_kph.innerHTML =response.gust_kph 
+  vis_km.innerHTML =response.vis_km 
+  vis_miles.innerHTML =response.vis_miles
+  windchill_c.innerHTML =response.windchill_c 
+  windchill_f.innerHTML =response.windchill_f  
+  last_updated_epoch.innerHTML =response.last_updated_epoch 
+  last_updated.innerHTML =response.last_updated 
+
+
+
+                  <tr><span id="temp_c"></span></tr>
+                  <tr><span id="temp_f"></span></tr>
+                  <tr><span id="wind_mph"></span></tr>
+                  <tr><span id="wind_kph"></span></tr>
+                  <tr><span id="wind_dir"></span></tr>
+                  <tr><span id="humidity"></span></tr>
+                  <tr><span id="is_day"></span></tr>
+                  <tr><span id="pressure_mb"></span></tr>
+                  <tr><span id="pressure_in"></span></tr>
+                  <tr><span id="wind_degree"></span></tr>
+                  <tr><span id="feelstrke_c"></span></tr>
+                  <tr><span id="feelstrke_f"></span></tr>
+                  <tr><span id="precip_mm"></span></tr>
+                  <tr><span id="precip_in"></span></tr>
+                  <tr><span id="heatindex_c"></span></tr>
+                  <tr><span id="heatindex_f"></span></tr>
+                  <tr><span id="dewpoint_c"></span></tr>
+                  <tr><span id="dewpoint_f"></span></tr>
+                  <tr><span id="uv"></span></tr>
+                  <tr><span id="gust_mph"></span></tr>
+                  <tr><span id="gust_kph"></span></tr>
+                  <tr><span id="vis_km"></span></tr>
+                  <tr><span id="vis_miles"></span></tr>
+                  <tr><span id="windchill_c"></span></tr>
+                  <tr><span id="windchill_f"></span></tr>
+                  <tr><span id="last_updated"></span></tr>
+                  <tr><span id="last_updated_epoch"></span></tr>
