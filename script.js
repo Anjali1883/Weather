@@ -2,8 +2,8 @@ const url = "https://weatherapi-com.p.rapidapi.com/current.json?q=";
 const options = {
   method: "GET",
   headers: {
-    "x-rapidapi-key": "c3688305bfmsh216e074bfb0addcp16c1ddjsn83add5cf2220",
-    "x-rapidapi-host": "weatherapi-com.p.rapidapi.com",
+    "x-rapidapi-key": "",        
+    "x-rapidapi-host": "",       
   },
 };
 
